@@ -1,0 +1,13 @@
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).exe
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).deps.json
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).runtimeconfig.json
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).runtimeconfig.dev.json
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).dll
+C:\Users\faeli\source\repos\homework5\method(3)\bin\Debug\netcoreapp3.1\method(3).pdb
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).csprojAssemblyReference.cache
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).AssemblyInfoInputs.cache
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).AssemblyInfo.cs
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).csproj.CoreCompileInputs.cache
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).dll
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).pdb
+C:\Users\faeli\source\repos\homework5\method(3)\obj\Debug\netcoreapp3.1\method(3).genruntimeconfig.cache

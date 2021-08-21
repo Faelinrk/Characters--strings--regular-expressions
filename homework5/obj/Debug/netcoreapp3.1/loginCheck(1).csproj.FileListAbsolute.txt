@@ -1,0 +1,13 @@
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).exe
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).deps.json
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).runtimeconfig.json
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).runtimeconfig.dev.json
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).dll
+C:\Users\faeli\source\repos\homework5\homework5\bin\Debug\netcoreapp3.1\loginCheck(1).pdb
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).csprojAssemblyReference.cache
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).AssemblyInfoInputs.cache
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).AssemblyInfo.cs
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).csproj.CoreCompileInputs.cache
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).dll
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).pdb
+C:\Users\faeli\source\repos\homework5\homework5\obj\Debug\netcoreapp3.1\loginCheck(1).genruntimeconfig.cache
